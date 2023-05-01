@@ -1,4 +1,4 @@
-# test to update from Github and then sync back to local repository.
+# test to update from Github and then sync back to local repository. test to resolve the merge diff.
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
