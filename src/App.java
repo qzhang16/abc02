@@ -21,9 +21,11 @@ public class App {
         Demo01 d01 = new Demo01("Jack");
         Demo01 d02 = new Demo01("Tom");
         Demo01 d03 = new Demo01("Jenny");
+        Demo01 d04 = new Demo01("Jim");
         d01.addFriend(d02);
         d01.addFriend(d03);
         d03.addFriend(d02);
+        d03.addFriend(d04);
 
         System.out.println("#".repeat(50));
         System.out.println(d01);
