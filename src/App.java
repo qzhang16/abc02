@@ -33,7 +33,7 @@ public class App {
 
         System.out.println("#".repeat(200));
         System.out.println(d01);
-        System.out.println("#".repeat(100));
+        System.out.println("#".repeat(200));
         System.out.println(d02);
         System.out.println("#".repeat(100));
         System.out.println(d03);
