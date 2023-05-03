@@ -31,11 +31,11 @@ public class App {
         d03.addFriend(d05);
         d03.addFriend(d06);
 
-        System.out.println("#".repeat(50));
+        System.out.println("#".repeat(100));
         System.out.println(d01);
-        System.out.println("#".repeat(50));
+        System.out.println("#".repeat(100));
         System.out.println(d02);
-        System.out.println("#".repeat(50));
+        System.out.println("#".repeat(100));
         System.out.println(d03);
 
 
