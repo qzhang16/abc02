@@ -1,4 +1,6 @@
 # sync test to update from Github and then sync back to local repository.
+[notion app](https://www.notion.so)
+
 ``` java
    List<String> friends = new ArrayList<>();
    friends.add("Tim");
