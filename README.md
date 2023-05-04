@@ -1,4 +1,4 @@
-# sync test to update from Github and then sync back to local repository.
+# develop java demos from WSL by VS code.
 [notion app](https://www.notion.so)
 
 [Colab research - python data science](https://colab.research.google.com)
