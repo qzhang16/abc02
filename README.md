@@ -1,4 +1,9 @@
 # sync test to update from Github and then sync back to local repository.
+``` java
+   List<String> friends = new ArrayList<>();
+   friends.add("Tim");
+   friends.add("Jack");
+```
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
