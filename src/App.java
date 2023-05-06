@@ -5,9 +5,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+import org.apache.commons.lang3.StringUtils;
+
 public class App {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
+        System.out.println(StringUtils.capitalize("hello, world !"));
         System.out.println("#".repeat(100));
         Path path = Paths.get("test.out");
         Scanner scanner = new Scanner(Files.newBufferedReader(path));
